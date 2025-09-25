@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: _DefeatSquirrel_
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist

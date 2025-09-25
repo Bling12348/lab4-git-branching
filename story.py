@@ -11,6 +11,9 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
+    print("You pull on the sword and feel a tingling sensation in your hand.")
+    print("After a strong tug it comes loose!")
+    print("A large dragon names Gorlock flies overhead")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
