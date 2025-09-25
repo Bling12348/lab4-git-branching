@@ -7,6 +7,7 @@ def intro():
         right_path()
     else:
         print("You stand still, unsure what to do. The forest swallows you.")
+<<<<<<< HEAD
         print("")
 
 def left_path():
@@ -14,6 +15,11 @@ def left_path():
     print("A tingling feeling overcomes your body")
     print("As you grasp and tug the sword it comes loose")
     print("A fearless dragon names Gorlock flies overhead and swoops down")
+=======
+
+def left_path():
+    print("You walk left and find a mysterious glowing sword stuck in a stone.")
+>>>>>>> 7983d7c8646eec97265ce2e045e80bfcb6bb735d
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")

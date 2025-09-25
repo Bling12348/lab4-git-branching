@@ -1,7 +1,25 @@
 Branches in this repo (with details):
 
+<<<<<<< HEAD
 - main
   SHA: 64390b5028f3ba97d2a9713af078d80e7053da43
   Commits: 1
   Recent commits:
     64390b5 | Author: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T22:53:10-04:00 | Initial commit
+=======
+- hero-path
+  SHA: ffbc761b7b87681b202684b352addd0695847e21
+  Commits: 6
+  Recent commits:
+    ffbc761 | Author: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Committer: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Date: 2025-09-24T23:00:31-04:00 | Summarize hero path in README.md
+    61e2b91 | Author: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Committer: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Date: 2025-09-24T22:58:24-04:00 | Added more outcome to heroic path.
+    040813c | Author: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Committer: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Date: 2025-09-24T22:56:17-04:00 | Added heroic option to sword pickup.
+    8a0f3d2 | Author: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Committer: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Date: 2025-09-24T22:47:41-04:00 | Added a center path.
+    a35b4ce | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-19T02:53:20Z | Auto-update branch-info.txt
+- main
+  SHA: bd9a49846d706051a6f776a0679822fcb55ac546
+  Commits: 2
+  Recent commits:
+    bd9a498 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-25T00:20:07Z | Auto-update branch-info.txt
+    3ef1d3f | Author: Tony Schembri <230397822+Bling12348@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-24T20:19:52-04:00 | Initial commit
+>>>>>>> 7983d7c8646eec97265ce2e045e80bfcb6bb735d
