@@ -14,6 +14,10 @@ def left_path():
     print("You pull on the sword and feel a tingling sensation in your hand.")
     print("After a strong tug it comes loose!")
     print("A large dragon names Gorlock flies overhead")
+    print("Gorlock swoops down and breathes fire on you but is ineffective against your new sword.")
+    print("With a single swing of your sword you defeat Gorlock")
+    print("The local pesants cheer for you and give you a beer")
+
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
