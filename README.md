@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _DefeatSquirrel_
+- `hero-path`: You pick up the sword and defeat a dragon. The villagers praise you
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
